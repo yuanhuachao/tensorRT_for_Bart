@@ -1,2 +1,2 @@
 # tensorRT_for_Bart
-Accurate inference of Bart with TensorRT
+Accelerate inference of Bart with TensorRT
